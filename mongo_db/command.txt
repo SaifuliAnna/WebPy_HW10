@@ -1,4 +1,0 @@
-py .\mongo_db\main.py --action '' --name '' --phone '' '' ''  --email '' --birthday '' --address ''
-
-py .\mongo_db\main.py --action create --name Alla --phone '+380965062598' '+380652987469' --email alla@gmail.com --birthday 17.08.1980 --address Avicen
-a
